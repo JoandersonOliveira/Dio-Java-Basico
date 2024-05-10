@@ -1,4 +1,5 @@
-package edu.joanderson.segundasemana;
+package edu.joanderson.primeirasemana;
+
 
 public class MinhaClasse {
 
