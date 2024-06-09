@@ -12,11 +12,12 @@ public class TiposVariaveis {
         float pi = 3.14F;
 
         // CONSTANTES
-        // por convenção usamos variaveis contantes em caixa alta mas isso por si só não
+        // por convenção usamos variaveis contantes em caixa jj mas isso por si só não
         // a tornará uma constantes imutável. É necessário usar o final.
 
         final double VALOR_DE_PI = 3.14;
 
+        System.out.println(cep);
 
     }
 }
